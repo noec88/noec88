@@ -11,3 +11,7 @@ As I continue my journey in Quality Control Automation, I am always on the looko
 
 ## Skills
 - Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
+
+## Languages
+I speak in englishhhhh
+
