@@ -1,4 +1,4 @@
-Hello! I'm Noe. Tester QC
+# Hello! I'm Noe. Tester QC
 ## About me
 Hello! I'm a quality enthusiast, with experience in using testing tools and implementing integration and acceptance testing methods. My meticulous attention to detail has been key to achieving success in previous science and research projects. I would like to apply my skills and knowledge in a dynamic and collaborative work environment. My goal is to contribute to the development of high-quality software and play an important role in preserving strong quality standards within a company.
 
