@@ -5,15 +5,12 @@ Hello! I'm a quality enthusiast, with experience in using testing tools and impl
 ## Contact me
 As I continue my journey in Quality Control Automation, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
 
-## Technologies
-- Project managment and issue tracking system: Jira
-- Automation: Katalon, Selenium
-- Java
-- SQL
-- Microsoft Office
-
 ## Skills
-- Problem-Solving: I thrive on solving complex problems. I’m constantly exploring new technologies and...
+- Languages and technologies : JAVA | GIT | SQL
+- Frameworks: JUnit| Serenity BDD | Screenplay
+- Tools: Selenium | Cypress | Postman | Android Emulator | Jira
+- Testing: Web | Mobile | API | Performance
+- Methodologies: Scrum | Kanban
 
 ## Languages
 -Spanish
