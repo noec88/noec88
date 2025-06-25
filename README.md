@@ -7,7 +7,7 @@ As I continue my journey in Quality Control Automation, I am always on the looko
 
 ## Skills
 - Languages and technologies : JAVA | GIT | SQL
-- Frameworks: JUnit| Serenity BDD | Screenplay
+- Frameworks: JUnit | Serenity BDD | Screenplay
 - Tools: Selenium | Cypress | Postman | Android Emulator | Jira
 - Testing: Web | Mobile | API | Performance
 - Methodologies: Scrum | Kanban
